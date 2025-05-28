@@ -9,7 +9,7 @@ Github Link:https://github.com/DevalacheruvuManasa/Expense_Tracker
 
 | Layer        | Technology         |
 |--------------|--------------------|
-| Frontend     | React.js, HTML, CSS, Bootstrap |
+| Frontend     | React.js|
 | Backend      | Java, Spring Boot (REST APIs) |
 | Database     | MySQL              |
 | Tools Used   | Postman, Git, GitHub |
